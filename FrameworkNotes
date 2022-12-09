@@ -1,0 +1,48 @@
+Framework Setup
+
+1. TDD - Test Driven Development
+2. BDD - Behavior Driven Development
+3. Keyword driven
+4. Hybrid
+
+
+Source Folders
+src/test/java  ==> test cases
+src/test/resources  ==> test data file or any test file
+
+src/main/java  ==> contain the logic
+src/main/resources  ==> config or properties file
+
+Design Patterns:
+POM: Page Object Model
+Singleton
+
+UTIL
+Excel Reader
+Screenshot
+base code
+logging
+reports
+
+
+--------
+test case
+knows:
+ what we are testing
+ what is the test data
+ what is the expected result
+does not know:
+ how to test it/perform the action
+ actual result
+ 
+ 
+ -------------------------------------Git
+ GIT
+ open terminal/cmd
+ go to your project folder
+ git init >> Initialized empty Git repository
+ git status >> check what are the new changes and status
+ 
+ 
+ 
+
