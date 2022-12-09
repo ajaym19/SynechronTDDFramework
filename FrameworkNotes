@@ -42,6 +42,11 @@ does not know:
  go to your project folder
  git init >> Initialized empty Git repository
  git status >> check what are the new changes and status
+ git add .  >> move all the untracked changes to staging area
+ git commit -m "message"
+ git remote add origin link >> this is required only one time, setup
+ git push origin master
+ 
  
  
  
